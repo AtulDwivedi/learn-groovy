@@ -1,2 +1,2 @@
 # LearnGroovy
-Learn groovy programming language thru simple examples.
+Learn groovy programming language through simple examples.
